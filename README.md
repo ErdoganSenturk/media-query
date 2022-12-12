@@ -1,3 +1,3 @@
-# mhrs-clone
+# click for preview
 
-[click for preview the page](https://erdogansenturk.github.io/bootstrap-dog-site/)
+[click for preview the page](https://erdogansenturk.github.io/media-query/)
